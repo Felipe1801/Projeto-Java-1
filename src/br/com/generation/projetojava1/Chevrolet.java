@@ -35,7 +35,7 @@ public static void opcao1() {
 
    System.out.println();
    System.out.println("A cada 13.7km rodados o Chevrolet Onix gasta "+litrokmchevrolet[0] );
-   System.out.println("Jogando "+resultado+ "kg de gás carbono na atmosfera");
+   System.out.println("Jogando "+resultado+ "kg de gás carbônico na atmosfera");
 
 }
 
